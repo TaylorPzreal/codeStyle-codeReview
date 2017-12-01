@@ -4,12 +4,12 @@ Code style and code review collections.
 
 ## Code style
 
-- JavaScript
-- TypeScript
-- HTML
-- SCSS
-- CSS
-- angular
+- [JavaScript](./javascript)
+- [TypeScript](./typescript)
+- [HTML](./html)
+- [SCSS](./scss)
+- [CSS](./css)
+- [angular](./angular)
 
 ## Code review
 
