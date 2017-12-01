@@ -1,0 +1,23 @@
+{
+  "name": "codestyle-codereview",
+  "version": "1.0.0",
+  "description": "code style and code review collections",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TaylorPzreal/codeStyle-codeReview.git"
+  },
+  "keywords": [
+    "code-style",
+    "code-review"
+  ],
+  "author": "TaylorPzreal <taylorpzreal@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TaylorPzreal/codeStyle-codeReview/issues"
+  },
+  "homepage": "https://github.com/TaylorPzreal/codeStyle-codeReview#readme"
+}
