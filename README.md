@@ -1,6 +1,6 @@
-# codeStyle-codeReview
+# Code style - code review
 
-Code style and code review collections.
+> Code style and code review collections.
 
 ## Code style
 
